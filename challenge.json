@@ -1,0 +1,21 @@
+{
+  "format": "rcp-challenge-v1",
+  "name": "intratexxxt",
+  "hash": "sha256",
+  "encoding": "u64be",
+  "stage0": "d9ebb86837faf5ee5935b61a2957de6881b79363772aca66e2b4618732c3ab6f",
+  "difficulty": 26,
+  "lock": {
+    "kdf": "argon2id",
+    "memory_kib": 524288,
+    "time": 3,
+    "threads": 4,
+    "key_len": 32,
+    "salt": "933ffc94b3eac62d92088ac0dd6e65da",
+    "cipher": "aes-256-gcm",
+    "nonce": "a6e566c420568e1922873e52",
+    "aad": "5243507c6161647c76317c14c5230d7e34eed984a34f002e05838c23664b8b935e986ab0a4107883645150",
+    "ciphertext": "f8a0a7bd5de15d2fd9faf6ec40044f8f3c94323772c02b44a2e335cdd2ad404b469f7c70a815d64501b8e43f23b3e7354fb8dc4ae36a21e572635e6adc14dcd41a6a808df73c496917e2af1cdb85d6ea9db0b63bc42f1ef29466efac727c66e8357cc5adb2711ec7fff8af1024073ed88b97357f5e6fcb9d43195b1db78ec688cb8cfba285245366503e84dea0d417b59338be8eba0fceaebc570282aad0704c30d8a0f1677159b84a9c484e956c5516a299d510b4ea56efd12528e8cf83f1322744643730e0f00e841deb689cbee3d7"
+  },
+  "commitment": "14c5230d7e34eed984a34f002e05838c23664b8b935e986ab0a4107883645150"
+}

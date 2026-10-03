@@ -1,0 +1,986 @@
+{
+ "stage0": "d9ebb86837faf5ee5935b61a2957de6881b79363772aca66e2b4618732c3ab6f",
+ "difficulty": 26,
+ "threads": 4,
+ "cpu": "4-core Xeon @ 2.80GHz (cloud VM)",
+ "stages": [
+  {
+   "i": 0,
+   "nonce": 51741039,
+   "tries": 51741040,
+   "seconds": 6.206968371,
+   "next": "8b41f221b26f4861e1eb2713099e564d1f10f0277ba5bbf2bb3c45077d9b892f",
+   "winning_lz": 29
+  },
+  {
+   "i": 1,
+   "nonce": 181888867,
+   "tries": 181888868,
+   "seconds": 21.620995345,
+   "next": "c32e9524ced3294ea39b935c38cde55e4741ad21a0289e144734542d08ca78d9",
+   "winning_lz": 26
+  },
+  {
+   "i": 2,
+   "nonce": 53090329,
+   "tries": 53090330,
+   "seconds": 6.142355968,
+   "next": "92a3bdeaba899682e2f0d0c359e3c41ae3530a922654f906b7057295982c9198",
+   "winning_lz": 31
+  },
+  {
+   "i": 3,
+   "nonce": 39620008,
+   "tries": 39620009,
+   "seconds": 4.7868,
+   "next": "ab54f0383670fa6c165cc4ab7a659b78711a51f24f0ab51906421006cedd94e7",
+   "winning_lz": 27
+  },
+  {
+   "i": 4,
+   "nonce": 63217207,
+   "tries": 63217208,
+   "seconds": 7.409599513,
+   "next": "c499312dcab04378d36255dc8e857dce330cf3e3a7a407fdf46f13dba7f4e594",
+   "winning_lz": 26
+  },
+  {
+   "i": 5,
+   "nonce": 88329498,
+   "tries": 88329499,
+   "seconds": 10.194116075,
+   "next": "bd55d17b1c1d47a00a685e593aa0d89eb98addf909c0293912efc2d52efe993e",
+   "winning_lz": 26
+  },
+  {
+   "i": 6,
+   "nonce": 106544971,
+   "tries": 106544972,
+   "seconds": 12.341821647,
+   "next": "fbfd738102e0963683af96fc7383f4522a2a42d9e8bfe890c5f3a971dd123969",
+   "winning_lz": 27
+  },
+  {
+   "i": 7,
+   "nonce": 22023758,
+   "tries": 22023759,
+   "seconds": 2.71912992,
+   "next": "f5c13876f09b18364765fdb77e9671764d9b40c3c125b364988519674f376e4f",
+   "winning_lz": 27
+  },
+  {
+   "i": 8,
+   "nonce": 92959141,
+   "tries": 92959142,
+   "seconds": 11.414840538,
+   "next": "b9580cf68458c979c28b69f5f1f30f1489dc9c5ce5e429bbf2421987a4ac9ec5",
+   "winning_lz": 27
+  },
+  {
+   "i": 9,
+   "nonce": 12782737,
+   "tries": 12782738,
+   "seconds": 2.646648873,
+   "next": "590d225d856f950eb4fe6cf978a03e63a45049f57de3a85bcff36b8c432a16bd",
+   "winning_lz": 28
+  },
+  {
+   "i": 10,
+   "nonce": 13714934,
+   "tries": 13714935,
+   "seconds": 1.932321359,
+   "next": "6b7cdfa3ec6bee54ac727e257023a1649d92801d86c8006411e9385c14cc2010",
+   "winning_lz": 27
+  },
+  {
+   "i": 11,
+   "nonce": 227138195,
+   "tries": 227138196,
+   "seconds": 49.358159475,
+   "next": "1fc7820f5313f4168da8630c25f13d050d5299ca60556caed6c35f518b77e07d",
+   "winning_lz": 27
+  },
+  {
+   "i": 12,
+   "nonce": 47209580,
+   "tries": 47209581,
+   "seconds": 11.401257578,
+   "next": "4ce5e7276eda2a146e1654fefe314dd43f6d90eaddf71f52c0668d63adfb5e02",
+   "winning_lz": 26
+  },
+  {
+   "i": 13,
+   "nonce": 50365623,
+   "tries": 50365624,
+   "seconds": 12.976852365,
+   "next": "0198889ef754afda12687937073824c4c16105e65ab916fda0db9dfa4209bb7d",
+   "winning_lz": 27
+  },
+  {
+   "i": 14,
+   "nonce": 67154377,
+   "tries": 67154378,
+   "seconds": 16.670742426,
+   "next": "861887b39b55a156105996551c924f8250ae9cd7d03ce03d74122beaab36e41f",
+   "winning_lz": 31
+  },
+  {
+   "i": 15,
+   "nonce": 48386024,
+   "tries": 48386025,
+   "seconds": 12.380632413,
+   "next": "668b6da11c0c5c4d1136ddb11c6d8072cd5aa6154bfff0584efd2df5a519b8bd",
+   "winning_lz": 27
+  },
+  {
+   "i": 16,
+   "nonce": 16799931,
+   "tries": 16799932,
+   "seconds": 3.855149282,
+   "next": "ca62316f306f495ed4b3aa4d4fd1f2165626e7f0801ca17103977410734147e6",
+   "winning_lz": 29
+  },
+  {
+   "i": 17,
+   "nonce": 8515310,
+   "tries": 8515311,
+   "seconds": 2.229811216,
+   "next": "24fd114b3daa553ee2edcbb92582f292868c0d625df2166c87c50a86ae75bac6",
+   "winning_lz": 27
+  },
+  {
+   "i": 18,
+   "nonce": 1384387,
+   "tries": 1384388,
+   "seconds": 0.449189589,
+   "next": "78d32002a7d7dc934997736dfd9ac2f9dccbf8faea67ba77e67a2c7aa8fe86e6",
+   "winning_lz": 26
+  },
+  {
+   "i": 19,
+   "nonce": 359396856,
+   "tries": 359396857,
+   "seconds": 68.717786011,
+   "next": "965da33b0dce7da4538dff05ef2bcb2e844391b4841c621f30b8d6417cea09c6",
+   "winning_lz": 28
+  },
+  {
+   "i": 20,
+   "nonce": 95018111,
+   "tries": 95018112,
+   "seconds": 11.425783367,
+   "next": "661cf7921f2c768cf2e032ae94f703ed2c35855df75481384da338db6f88802e",
+   "winning_lz": 26
+  },
+  {
+   "i": 21,
+   "nonce": 192111665,
+   "tries": 192111666,
+   "seconds": 23.491318641,
+   "next": "a94156d78d8a0fa65e1783c8d157c0b6dd479530376eb7335c936f740484b04b",
+   "winning_lz": 26
+  },
+  {
+   "i": 22,
+   "nonce": 7894893,
+   "tries": 7894894,
+   "seconds": 0.953941769,
+   "next": "5d368a5ed4f8f3be0795f1956cfd466f0d4c3da0a71e7f8ac57e1202c955c8c5",
+   "winning_lz": 26
+  },
+  {
+   "i": 23,
+   "nonce": 18309609,
+   "tries": 18309610,
+   "seconds": 2.291369354,
+   "next": "1f62c13f1eb16a4e886fb48e60650f1b16d42f760ecfdc94c9cebc48d853addb",
+   "winning_lz": 26
+  },
+  {
+   "i": 24,
+   "nonce": 10944337,
+   "tries": 10944338,
+   "seconds": 1.2615475329999999,
+   "next": "9e129e75f2a6ed4f6480df49a4c15a0b464d2d54b140626f4977dadc29c71c08",
+   "winning_lz": 26
+  },
+  {
+   "i": 25,
+   "nonce": 9686343,
+   "tries": 9686344,
+   "seconds": 1.137108743,
+   "next": "dcfd5b6042951ef9709cb1c22aef55999e7093b6d36546ae512f550a9861f539",
+   "winning_lz": 27
+  },
+  {
+   "i": 26,
+   "nonce": 60637269,
+   "tries": 60637270,
+   "seconds": 6.928160412,
+   "next": "d1c8a585b94a1dcdb39f26b46b0307355e1b78c162df84880396935b1ad0d4d9",
+   "winning_lz": 26
+  },
+  {
+   "i": 27,
+   "nonce": 147136874,
+   "tries": 147136875,
+   "seconds": 17.680539453,
+   "next": "ba4f77068cdd6753c12b6879a9aa4d1923a46cbca89f583ab51b000d75d76c48",
+   "winning_lz": 29
+  },
+  {
+   "i": 28,
+   "nonce": 67233330,
+   "tries": 67233331,
+   "seconds": 7.806917134,
+   "next": "bf9c215108fb1ab133352a0a845120722f0a87a396c6cfdf5db9c52f05d67065",
+   "winning_lz": 27
+  },
+  {
+   "i": 29,
+   "nonce": 13017616,
+   "tries": 13017617,
+   "seconds": 1.508994474,
+   "next": "1105e61e5199a27ab6966917f78959ad70cfd2d6245937d4d0cec95b985f639c",
+   "winning_lz": 26
+  },
+  {
+   "i": 30,
+   "nonce": 242382586,
+   "tries": 242382587,
+   "seconds": 28.096549363,
+   "next": "48c9ec9ebb30fe5414a2904068d39849856a2e9852ffc5bd82cba4100f4913c1",
+   "winning_lz": 27
+  },
+  {
+   "i": 31,
+   "nonce": 47504415,
+   "tries": 47504416,
+   "seconds": 5.352793077,
+   "next": "d8d60ca317ca4126b2b318ce5b9372cc8c82988c5dd6f99149cb4becd86fc2e1",
+   "winning_lz": 26
+  },
+  {
+   "i": 32,
+   "nonce": 93224730,
+   "tries": 93224731,
+   "seconds": 11.032143004,
+   "next": "e1a843bfe474ff9d20f465efaa485f0458a43e47fd53e19539a0ba020895828a",
+   "winning_lz": 27
+  },
+  {
+   "i": 33,
+   "nonce": 80386876,
+   "tries": 80386877,
+   "seconds": 13.675443444999999,
+   "next": "a3a9581c7c0897b3af7ec68d5d1e6c10a322cf86278693fcd7231623b84f2f3b",
+   "winning_lz": 26
+  },
+  {
+   "i": 34,
+   "nonce": 22369766,
+   "tries": 22369767,
+   "seconds": 4.443083606,
+   "next": "7b1469a2ba12ac4850aa21147248d7ad9d9599f8059cdb275780f95a29bd785c",
+   "winning_lz": 26
+  },
+  {
+   "i": 35,
+   "nonce": 34254685,
+   "tries": 34254686,
+   "seconds": 4.095483357,
+   "next": "316a921ae56c9df65efb2616371ff0e55e9383acaf18a2ef59ccb404bf0f1f75",
+   "winning_lz": 26
+  },
+  {
+   "i": 36,
+   "nonce": 218759756,
+   "tries": 218759757,
+   "seconds": 27.58417289,
+   "next": "69aab661438f8d2d7a4fc5da69736ea5e01b233b7fb8a57d86ee825c5d7a59f8",
+   "winning_lz": 28
+  },
+  {
+   "i": 37,
+   "nonce": 20079725,
+   "tries": 20079726,
+   "seconds": 2.280649648,
+   "next": "5056106c543081fd79925205d83700d4b79d7910201a6a893bbd6c940f99f673",
+   "winning_lz": 26
+  },
+  {
+   "i": 38,
+   "nonce": 57520425,
+   "tries": 57520426,
+   "seconds": 6.644902811,
+   "next": "550d7ebd02aaf644f66480686c23430d98bcc6fb78689fe009be4cf8f7d16c2e",
+   "winning_lz": 28
+  },
+  {
+   "i": 39,
+   "nonce": 165739963,
+   "tries": 165739964,
+   "seconds": 19.88243154,
+   "next": "e31fb672bf1cfbf6b1b59ae3944a13378c832e4ecac73a06fc28788d7db78bef",
+   "winning_lz": 26
+  },
+  {
+   "i": 40,
+   "nonce": 151252073,
+   "tries": 151252074,
+   "seconds": 17.734446408,
+   "next": "713bf1379b8ea7045bf9b7c5d74549588cb5e35b648fedcd5b5ad8228772e30f",
+   "winning_lz": 27
+  },
+  {
+   "i": 41,
+   "nonce": 14519804,
+   "tries": 14519805,
+   "seconds": 1.737348637,
+   "next": "618d7ab33d5b64cea2a9169184258904413e5a65cfebb86bd41784cd059ede78",
+   "winning_lz": 26
+  },
+  {
+   "i": 42,
+   "nonce": 3567613,
+   "tries": 3567614,
+   "seconds": 0.400978659,
+   "next": "75629b9e79f562d3e53426462d65193482334d726e05e8b7335aca16273adc7c",
+   "winning_lz": 26
+  },
+  {
+   "i": 43,
+   "nonce": 141821041,
+   "tries": 141821042,
+   "seconds": 16.758771657,
+   "next": "cf23e238deae4e0a822343519bd2f84ef1e9e6946250b6089925c1dfab1ba37f",
+   "winning_lz": 28
+  },
+  {
+   "i": 44,
+   "nonce": 40197884,
+   "tries": 40197885,
+   "seconds": 4.561614677,
+   "next": "395cd117ce01e08de503717ef21ebf5209a2ee4961cdb71e720db046703d3f26",
+   "winning_lz": 26
+  },
+  {
+   "i": 45,
+   "nonce": 115470671,
+   "tries": 115470672,
+   "seconds": 13.842721476,
+   "next": "fd3d41375a2eb3cb05df75bdba486e76e86f8a26279280d5755b1164390f66c4",
+   "winning_lz": 27
+  },
+  {
+   "i": 46,
+   "nonce": 19710931,
+   "tries": 19710932,
+   "seconds": 2.319505481,
+   "next": "391dbf52f56317603f9bbd0097ded594e0d9f461ddeb541d6991ae15bb69341b",
+   "winning_lz": 28
+  },
+  {
+   "i": 47,
+   "nonce": 27568569,
+   "tries": 27568570,
+   "seconds": 3.53897371,
+   "next": "375ce710f7763ede54e13804edf1ca44bd2f40141bc1e1a897f630c1212fab95",
+   "winning_lz": 27
+  },
+  {
+   "i": 48,
+   "nonce": 101214109,
+   "tries": 101214110,
+   "seconds": 12.552943317,
+   "next": "82f0d63ce17da7124fab1e827ac8f6eb9770ac2b1fc1f4cf7693c72a9f7927cc",
+   "winning_lz": 26
+  },
+  {
+   "i": 49,
+   "nonce": 175638779,
+   "tries": 175638780,
+   "seconds": 20.582923535,
+   "next": "38a6607438c448bcca793be45199636fbc0ea642d59f261d2805c93d73dcb6fd",
+   "winning_lz": 27
+  },
+  {
+   "i": 50,
+   "nonce": 5057323,
+   "tries": 5057324,
+   "seconds": 0.68667618,
+   "next": "39883cf65310773a13d881491605361dbf4bd7f695d1d8c0418b569817f322b8",
+   "winning_lz": 26
+  },
+  {
+   "i": 51,
+   "nonce": 46305650,
+   "tries": 46305651,
+   "seconds": 5.423666349,
+   "next": "fe426bd44ab6a7a7bbf0e5b088c3c85b011e7f438429ff72b306a6871ecb4b8d",
+   "winning_lz": 27
+  },
+  {
+   "i": 52,
+   "nonce": 17087207,
+   "tries": 17087208,
+   "seconds": 1.915529393,
+   "next": "510a8de87da25b8f9e2a917f3178c77cf3eb69de6acc6957876b9960ba7f731a",
+   "winning_lz": 28
+  },
+  {
+   "i": 53,
+   "nonce": 215391470,
+   "tries": 215391471,
+   "seconds": 26.078971712,
+   "next": "3cbc132f476e42e9873efa6d5d6ce15198cab4095f1b3e283eec747112d20796",
+   "winning_lz": 28
+  },
+  {
+   "i": 54,
+   "nonce": 79426124,
+   "tries": 79426125,
+   "seconds": 9.883688929,
+   "next": "87a07ef0cd6c40c2f41521e7b4b4b592f077798c362c8945f88279424bc35f33",
+   "winning_lz": 26
+  },
+  {
+   "i": 55,
+   "nonce": 102235456,
+   "tries": 102235457,
+   "seconds": 12.173503559,
+   "next": "ac543f112e470d9432781e6f2298a98ba2a662ee4b9f082c71926356aae79910",
+   "winning_lz": 28
+  },
+  {
+   "i": 56,
+   "nonce": 26461460,
+   "tries": 26461461,
+   "seconds": 3.304250976,
+   "next": "fcd8827a7a1ee57c8f4b8f88a76d59e586b4a60596aed96faaf19ddd942500bc",
+   "winning_lz": 27
+  },
+  {
+   "i": 57,
+   "nonce": 54026659,
+   "tries": 54026660,
+   "seconds": 6.689010893,
+   "next": "ad6072177b61f1d07393291d699aaec2c8105fef73e9ae7b780d368d5011ae83",
+   "winning_lz": 27
+  },
+  {
+   "i": 58,
+   "nonce": 25772868,
+   "tries": 25772869,
+   "seconds": 3.017103867,
+   "next": "2f8b2f0601ab2ec4c5d2d65571e596319edc02f9cf9a3950c53108b8cabd2888",
+   "winning_lz": 26
+  },
+  {
+   "i": 59,
+   "nonce": 56565327,
+   "tries": 56565328,
+   "seconds": 6.678835579,
+   "next": "be68eeb1c379cc219a1701c9aa23a2de932d4decd62223805970b68ac17aa200",
+   "winning_lz": 27
+  },
+  {
+   "i": 60,
+   "nonce": 167492518,
+   "tries": 167492519,
+   "seconds": 20.200491176,
+   "next": "ef92d1df604182b6e90a2b9462275bfd617e3499daf8f08eeba7dfe2ee5d697e",
+   "winning_lz": 27
+  },
+  {
+   "i": 61,
+   "nonce": 223558042,
+   "tries": 223558043,
+   "seconds": 26.292904448,
+   "next": "03aa8ca9cd0822a5c0e83dda4d82c421df38506a1e51267f3b12324da073e396",
+   "winning_lz": 27
+  },
+  {
+   "i": 62,
+   "nonce": 34004132,
+   "tries": 34004133,
+   "seconds": 4.030429639,
+   "next": "f854f81dc9c1ed94661f2ee149de158a1f578ad0114ee7dbe8b7ef1e0433e1c0",
+   "winning_lz": 27
+  },
+  {
+   "i": 63,
+   "nonce": 26106009,
+   "tries": 26106010,
+   "seconds": 3.202915374,
+   "next": "dee2af2a9090b471e88a12aaa0e8cc0d548866da9c9083a56e14f78ba6a71c37",
+   "winning_lz": 26
+  },
+  {
+   "i": 64,
+   "nonce": 95016735,
+   "tries": 95016736,
+   "seconds": 11.308475912,
+   "next": "cc17f804e7da78992160beb45263006a1e3d4179e846166df45f4643e6195186",
+   "winning_lz": 27
+  },
+  {
+   "i": 65,
+   "nonce": 3411225,
+   "tries": 3411226,
+   "seconds": 0.407629928,
+   "next": "7b37021edfd10091e1842d8bc3179b8ea946fc14cfc4d7768e9e0e4f31f7f081",
+   "winning_lz": 26
+  },
+  {
+   "i": 66,
+   "nonce": 7251882,
+   "tries": 7251883,
+   "seconds": 0.962670384,
+   "next": "780ca5c4d112946c359f8c1e0813ca9b3fbb722df9bb53a2a7cbeb8ae28ac6c6",
+   "winning_lz": 26
+  },
+  {
+   "i": 67,
+   "nonce": 6034559,
+   "tries": 6034560,
+   "seconds": 0.729010993,
+   "next": "b489f828020598b74a265f2cb6b79c1decce5800c669a8952165c9cf350c2641",
+   "winning_lz": 27
+  },
+  {
+   "i": 68,
+   "nonce": 19496481,
+   "tries": 19496482,
+   "seconds": 2.541719453,
+   "next": "f63b744475c53911a9e6b440d86aa7cdebf7f2a0346349b16990bfc2ab97428a",
+   "winning_lz": 26
+  },
+  {
+   "i": 69,
+   "nonce": 37432701,
+   "tries": 37432702,
+   "seconds": 4.549028868,
+   "next": "a847879384e44e05a668d7e79ccb548e98359ee2083085cef0cab332616279af",
+   "winning_lz": 27
+  },
+  {
+   "i": 70,
+   "nonce": 14139779,
+   "tries": 14139780,
+   "seconds": 1.827534913,
+   "next": "d09e3d3ba63e5e9345f86bea5a4e7d29e2faf3dff87cecb816997822c6ae118e",
+   "winning_lz": 26
+  },
+  {
+   "i": 71,
+   "nonce": 82121088,
+   "tries": 82121089,
+   "seconds": 9.910170135,
+   "next": "0393dc6100b5229b301d58b7db7ddde68c75a6f9aa504bcf1bf564c322cbda30",
+   "winning_lz": 27
+  },
+  {
+   "i": 72,
+   "nonce": 54564972,
+   "tries": 54564973,
+   "seconds": 6.703919708,
+   "next": "02890f88a4e7b71b44ad2b72cccc775666568aead66207f7825e4d9cc385949c",
+   "winning_lz": 30
+  },
+  {
+   "i": 73,
+   "nonce": 88576160,
+   "tries": 88576161,
+   "seconds": 10.914002982,
+   "next": "f28b911deb23396e1df50757ac24db7370aa7a2c6b939b03dd0af62712488595",
+   "winning_lz": 26
+  },
+  {
+   "i": 74,
+   "nonce": 17966830,
+   "tries": 17966831,
+   "seconds": 2.336375701,
+   "next": "d68e5829ec4a36708226ef0b1c0f2f4a42dabb7c2e8bd727737fd57116730061",
+   "winning_lz": 26
+  },
+  {
+   "i": 75,
+   "nonce": 63590799,
+   "tries": 63590800,
+   "seconds": 7.55303944,
+   "next": "595071cd259dabf12467a5d74ed98157537d483b7154a04aeaa76424b4ba6232",
+   "winning_lz": 27
+  },
+  {
+   "i": 76,
+   "nonce": 14139175,
+   "tries": 14139176,
+   "seconds": 1.696668112,
+   "next": "7bfad2239550f08b0c9aeca2967f7acf38b5178fc41a2d0ffe0f114b1d290b52",
+   "winning_lz": 28
+  },
+  {
+   "i": 77,
+   "nonce": 9449095,
+   "tries": 9449096,
+   "seconds": 1.104443554,
+   "next": "d375f343f8f7f89b592ddbfff84425a8fb15b6715150d53685f57fa4c8e70fd4",
+   "winning_lz": 26
+  },
+  {
+   "i": 78,
+   "nonce": 133803149,
+   "tries": 133803150,
+   "seconds": 15.928633021,
+   "next": "b2b584a915953b0e9b8c11c33bea85ad148a272248e8ad38ef59cc80bc3a1c56",
+   "winning_lz": 27
+  },
+  {
+   "i": 79,
+   "nonce": 65496905,
+   "tries": 65496906,
+   "seconds": 7.788997088,
+   "next": "26466672d9d70fa200e8d633b9acce7909bdc90922ba89a632226104c7a06822",
+   "winning_lz": 30
+  },
+  {
+   "i": 80,
+   "nonce": 11402110,
+   "tries": 11402111,
+   "seconds": 1.4493654550000001,
+   "next": "8145ced6d204bb06d34ad6e3834711e37fade894d63a71964c0b4aa554c7f449",
+   "winning_lz": 31
+  },
+  {
+   "i": 81,
+   "nonce": 89940469,
+   "tries": 89940470,
+   "seconds": 10.633229056,
+   "next": "ee8a44db65d954edb34e7e72e4afe3ed802008924d3b0d6dfd048f66c9efd0ee",
+   "winning_lz": 29
+  },
+  {
+   "i": 82,
+   "nonce": 3967644,
+   "tries": 3967645,
+   "seconds": 0.496606042,
+   "next": "0228a11d4d998da5e67c03f9809f19188bc741d3a8ac44adaf8b2d965aa003b9",
+   "winning_lz": 29
+  },
+  {
+   "i": 83,
+   "nonce": 52677851,
+   "tries": 52677852,
+   "seconds": 6.693296676,
+   "next": "968ba8e76b248a841be70b1a1381ff75417507f473d3f4b097f51bce7614414a",
+   "winning_lz": 27
+  },
+  {
+   "i": 84,
+   "nonce": 11512621,
+   "tries": 11512622,
+   "seconds": 1.38654331,
+   "next": "9c852397bc36a8e5667a04f4a4e6257db5ecaec428a94194667902df60bf857f",
+   "winning_lz": 26
+  },
+  {
+   "i": 85,
+   "nonce": 7140751,
+   "tries": 7140752,
+   "seconds": 0.967722771,
+   "next": "22df4f98c6650c95b62372459bee876e50d8aaa7d989a4672f67b4c306813b32",
+   "winning_lz": 27
+  },
+  {
+   "i": 86,
+   "nonce": 538229491,
+   "tries": 538229492,
+   "seconds": 65.705782814,
+   "next": "f7cd568faa419f93b53102baea9b358f3a92000003127c8f2325cd6c14243069",
+   "winning_lz": 27
+  },
+  {
+   "i": 87,
+   "nonce": 47640159,
+   "tries": 47640160,
+   "seconds": 6.07502386,
+   "next": "ed50541b4d99695ca6575c01a338085950897bdba92d8f99ec0ce0bb44ce780e",
+   "winning_lz": 26
+  },
+  {
+   "i": 88,
+   "nonce": 36071440,
+   "tries": 36071441,
+   "seconds": 4.786778002,
+   "next": "38431316050d7587daed86f7a34bf4c09a64c77d27e26ebb5bff8c3ef939a1e9",
+   "winning_lz": 28
+  },
+  {
+   "i": 89,
+   "nonce": 71288179,
+   "tries": 71288180,
+   "seconds": 8.66443183,
+   "next": "8ee850246fe54cdf66f4f1370b0d20bc15f209afc36780f500d88db594c54a5f",
+   "winning_lz": 27
+  },
+  {
+   "i": 90,
+   "nonce": 40515286,
+   "tries": 40515287,
+   "seconds": 4.83766862,
+   "next": "37f721e788261129978ac6474b460ce21fc8d9f048d3e39aaa9b920c77379e30",
+   "winning_lz": 26
+  },
+  {
+   "i": 91,
+   "nonce": 2769971,
+   "tries": 2769972,
+   "seconds": 0.313820462,
+   "next": "03c9b85d718e73150611d4ea8b386843906f60452d0a976612a580701e0477dc",
+   "winning_lz": 26
+  },
+  {
+   "i": 92,
+   "nonce": 55813825,
+   "tries": 55813826,
+   "seconds": 6.727555104,
+   "next": "dfd9ccdbe17e975033882b90352168eb49fb6205685a9655948ed4a4ef20322b",
+   "winning_lz": 27
+  },
+  {
+   "i": 93,
+   "nonce": 31052196,
+   "tries": 31052197,
+   "seconds": 3.7819947320000002,
+   "next": "2f5b222ca8820f5c343e775b2cc0cb89e9d2e858e0844150cc69a1b744cd41a8",
+   "winning_lz": 27
+  },
+  {
+   "i": 94,
+   "nonce": 16683024,
+   "tries": 16683025,
+   "seconds": 2.063126547,
+   "next": "542192c4dce5bbb10aee1225290e47300b195557c76377fa8b93132eace2ae4e",
+   "winning_lz": 30
+  },
+  {
+   "i": 95,
+   "nonce": 29880291,
+   "tries": 29880292,
+   "seconds": 3.611462581,
+   "next": "4925528ff01aa2fd4e43663406b5c5ba8e9e7155b773620f4a25c9e88784490e",
+   "winning_lz": 26
+  },
+  {
+   "i": 96,
+   "nonce": 58216784,
+   "tries": 58216785,
+   "seconds": 7.170845884,
+   "next": "0effabf7e8f653e2db303d175b65eb03673d64cf1c1c3fef14e63ba2f6ec9eaa",
+   "winning_lz": 28
+  },
+  {
+   "i": 97,
+   "nonce": 99866588,
+   "tries": 99866589,
+   "seconds": 11.745700307,
+   "next": "13a17783b9fdd9a5fa7123b02eb0b2bc4bafa8cc351a2587453d79fb0d38e37a",
+   "winning_lz": 27
+  },
+  {
+   "i": 98,
+   "nonce": 25745084,
+   "tries": 25745085,
+   "seconds": 3.029291085,
+   "next": "c59582682fa17c6ac452b8d589316232a655aeaeba86440ce7ad06d5444fc18f",
+   "winning_lz": 30
+  },
+  {
+   "i": 99,
+   "nonce": 39509575,
+   "tries": 39509576,
+   "seconds": 4.598287979,
+   "next": "cc90048d919d63e1b07859d120dfa02655b4b91312b29ab45a3c4c949c84ec3c",
+   "winning_lz": 28
+  },
+  {
+   "i": 100,
+   "nonce": 30763945,
+   "tries": 30763946,
+   "seconds": 3.571572679,
+   "next": "8f66bc95e9b6b19cbf3d35baecb68dbac23249d4c377c3a21e4ddb7aa77eb93f",
+   "winning_lz": 27
+  },
+  {
+   "i": 101,
+   "nonce": 61223496,
+   "tries": 61223497,
+   "seconds": 7.075690537,
+   "next": "fe73d637b787b9db2a6532f4cce7d41c5c67081a4f2dd7fa4f746fa4c653921a",
+   "winning_lz": 28
+  },
+  {
+   "i": 102,
+   "nonce": 702539,
+   "tries": 702540,
+   "seconds": 0.086012179,
+   "next": "3b5b8f6378df63248f1dc287f1c96662a8299ba5f36be1f8a5f93f0ea161229b",
+   "winning_lz": 26
+  },
+  {
+   "i": 103,
+   "nonce": 39711055,
+   "tries": 39711056,
+   "seconds": 4.624157502,
+   "next": "1e26d0117f48389189a833926434f82332735df3dfa93847fac730c1ddee9326",
+   "winning_lz": 28
+  },
+  {
+   "i": 104,
+   "nonce": 17237269,
+   "tries": 17237270,
+   "seconds": 2.104397358,
+   "next": "eada6bb05c7a114afb0b8e421cfe7d52ee620078bcbf5c51f6508e460086520a",
+   "winning_lz": 28
+  },
+  {
+   "i": 105,
+   "nonce": 133557984,
+   "tries": 133557985,
+   "seconds": 15.616377129,
+   "next": "a71260fc95b548bff92da01a02fcaa2f786de5c60432828ddb160eaec82cc683",
+   "winning_lz": 27
+  },
+  {
+   "i": 106,
+   "nonce": 33854459,
+   "tries": 33854460,
+   "seconds": 4.093372282,
+   "next": "68dd726d1f53f006f6817e064aa804d4deec5a17b848cd5b564e31c7a9ee9a5a",
+   "winning_lz": 26
+  },
+  {
+   "i": 107,
+   "nonce": 159868677,
+   "tries": 159868678,
+   "seconds": 19.322849231,
+   "next": "57a8ab6ba85b5b8fbb308499ee9c2b145becfc6b1f75c140eb36bc83a1a37f09",
+   "winning_lz": 26
+  },
+  {
+   "i": 108,
+   "nonce": 5928603,
+   "tries": 5928604,
+   "seconds": 0.707971077,
+   "next": "7e3cd5d8c7828d346fb75813cd571420704f7ea8c362ac3c959ddedfdb3877ac",
+   "winning_lz": 26
+  },
+  {
+   "i": 109,
+   "nonce": 20465353,
+   "tries": 20465354,
+   "seconds": 2.407726288,
+   "next": "e2ddb6293809fd1232c86eff78a1e07b0d73f76c703b863447c12b2218160d59",
+   "winning_lz": 26
+  },
+  {
+   "i": 110,
+   "nonce": 140410128,
+   "tries": 140410129,
+   "seconds": 16.935835538,
+   "next": "baf0b42a058199069ec3a2a5fdeb06f32039725b0dc974fadd0c6fbfadd98c2c",
+   "winning_lz": 26
+  },
+  {
+   "i": 111,
+   "nonce": 19169872,
+   "tries": 19169873,
+   "seconds": 2.428043672,
+   "next": "0fda11e561d0dd7bd2b186ad505e831c31e776b0bd272f9493a074335572f9f2",
+   "winning_lz": 29
+  },
+  {
+   "i": 112,
+   "nonce": 60240832,
+   "tries": 60240833,
+   "seconds": 7.422403496,
+   "next": "d07b46b1a8bbd2a5b7e4287971594b4e214d0c48852ac40254980a278116c8da",
+   "winning_lz": 28
+  },
+  {
+   "i": 113,
+   "nonce": 99002373,
+   "tries": 99002374,
+   "seconds": 11.933131834,
+   "next": "408ae53eee57925d79079e8e2e1991b17a1b3162cf0a3db2cef954a6456df79c",
+   "winning_lz": 27
+  },
+  {
+   "i": 114,
+   "nonce": 121234429,
+   "tries": 121234430,
+   "seconds": 14.676534095,
+   "next": "7ea24a918072b76e5e41567b9b219a8c8b2c1f092eeadd7835e2cea0df0d3942",
+   "winning_lz": 26
+  },
+  {
+   "i": 115,
+   "nonce": 188018063,
+   "tries": 188018064,
+   "seconds": 22.405764033,
+   "next": "bff1254e8f638fd4fc428db6acceec2370349bb06b52cfff5691fcf7e1775a4b",
+   "winning_lz": 28
+  },
+  {
+   "i": 116,
+   "nonce": 4021292,
+   "tries": 4021293,
+   "seconds": 0.491791999,
+   "next": "87a829ea48a71708b087f339e645a1f8a2f7d6016b131daa00a2afee5f4088db",
+   "winning_lz": 28
+  },
+  {
+   "i": 117,
+   "nonce": 32730054,
+   "tries": 32730055,
+   "seconds": 4.047787062,
+   "next": "593b3973980029626dd68a977639d8b1c36397c9edc95f0f72287c121060a5db",
+   "winning_lz": 26
+  },
+  {
+   "i": 118,
+   "nonce": 40894725,
+   "tries": 40894726,
+   "seconds": 4.741417163,
+   "next": "058f1b06e51371885a8fa66e8523c0cf37c5430781d3ce6489e7616bcbcd8a92",
+   "winning_lz": 26
+  },
+  {
+   "i": 119,
+   "nonce": 114724707,
+   "tries": 114724708,
+   "seconds": 13.998248562,
+   "next": "bd32411515a81f59963079be51392f5e576d38b730271a70dc9f1d3bad701545",
+   "winning_lz": 26
+  }
+ ],
+ "rates": [
+  {
+   "threads": 1,
+   "hps": 2304532.2395168566
+  },
+  {
+   "threads": 2,
+   "hps": 4492245.363302619
+  },
+  {
+   "threads": 3,
+   "hps": 6333964.521502707
+  },
+  {
+   "threads": 4,
+   "hps": 8117777.309914726
+  }
+ ]
+}

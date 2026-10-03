@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="420" viewBox="0 0 960 420" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" role="img" aria-labelledby="dt dd">
+<title id="dt">Seconds per stage at every difficulty</title>
+<desc id="dd">Expected wall-clock seconds to solve one stage, 2^d divided by the measured hash rate, for one thread and for all threads, on a log scale.</desc>
+<rect width="960" height="420" rx="10" fill="#fcfcfb"/>
+<text x="64" y="38" fill="#0b0b0b" font-size="20" font-weight="600">What one more bit of difficulty costs</text>
+<text x="64" y="62" fill="#52514e" font-size="13">Expected time per stage = 2ᵈ ÷ measured hash rate, log scale. Each bit doubles it. The live challenge runs at d = 26.</text>
+<line x1="64" y1="348.0" x2="810" y2="348.0" stroke="#e1e0d9" stroke-width="1"/>
+<text x="54" y="352.0" text-anchor="end" fill="#898781" font-size="12">10 ms</text>
+<line x1="64" y1="296.7" x2="810" y2="296.7" stroke="#e1e0d9" stroke-width="1"/>
+<text x="54" y="300.7" text-anchor="end" fill="#898781" font-size="12">1 s</text>
+<line x1="64" y1="251.0" x2="810" y2="251.0" stroke="#e1e0d9" stroke-width="1"/>
+<text x="54" y="255.0" text-anchor="end" fill="#898781" font-size="12">1 min</text>
+<line x1="64" y1="205.4" x2="810" y2="205.4" stroke="#e1e0d9" stroke-width="1"/>
+<text x="54" y="209.4" text-anchor="end" fill="#898781" font-size="12">1 h</text>
+<line x1="64" y1="170.0" x2="810" y2="170.0" stroke="#e1e0d9" stroke-width="1"/>
+<text x="54" y="174.0" text-anchor="end" fill="#898781" font-size="12">1 day</text>
+<line x1="64" y1="104.2" x2="810" y2="104.2" stroke="#e1e0d9" stroke-width="1"/>
+<text x="54" y="108.2" text-anchor="end" fill="#898781" font-size="12">1 yr</text>
+<text x="64.0" y="370" text-anchor="middle" fill="#898781" font-size="12">16</text>
+<text x="170.6" y="370" text-anchor="middle" fill="#898781" font-size="12">20</text>
+<text x="277.1" y="370" text-anchor="middle" fill="#898781" font-size="12">24</text>
+<text x="383.7" y="370" text-anchor="middle" fill="#898781" font-size="12">28</text>
+<text x="490.3" y="370" text-anchor="middle" fill="#898781" font-size="12">32</text>
+<text x="596.9" y="370" text-anchor="middle" fill="#898781" font-size="12">36</text>
+<text x="703.4" y="370" text-anchor="middle" fill="#898781" font-size="12">40</text>
+<text x="810.0" y="370" text-anchor="middle" fill="#898781" font-size="12">44</text>
+<text x="437.0" y="382" text-anchor="middle" fill="#898781" font-size="12">difficulty d (leading zero bits)</text>
+<line x1="330.4" y1="92" x2="330.4" y2="348" stroke="#c3c2b7" stroke-width="1.5" stroke-dasharray="4 4"/>
+<text x="336.4" y="106" fill="#52514e" font-size="12">v1 · d = 26</text>
+<path d="M64.0,336.4 L90.6,328.6 L117.3,320.9 L143.9,313.2 L170.6,305.5 L197.2,297.7 L223.9,290.0 L250.5,282.3 L277.1,274.6 L303.8,266.8 L330.4,259.1 L357.1,251.4 L383.7,243.7 L410.4,235.9 L437.0,228.2 L463.6,220.5 L490.3,212.8 L516.9,205.0 L543.6,197.3 L570.2,189.6 L596.9,181.9 L623.5,174.1 L650.1,166.4 L676.8,158.7 L703.4,151.0 L730.1,143.2 L756.7,135.5 L783.4,127.8 L810.0,120.1" fill="none" stroke="#eb6834" stroke-width="2" stroke-linecap="round"/>
+<circle cx="330.4" cy="259.1" r="4.5" fill="#eb6834" stroke="#fcfcfb" stroke-width="2"><title>1 thread · 2.3 MH/s: 29 s per stage at d = 26</title></circle>
+<text x="322.4" y="263.1" text-anchor="end" fill="#0b0b0b" font-size="12">29 s</text>
+<text x="818.0" y="117.1" fill="#52514e" font-size="12">1 thread · 2.3 MH/s</text>
+<path d="M90.6,342.7 L117.3,334.9 L143.9,327.2 L170.6,319.5 L197.2,311.8 L223.9,304.0 L250.5,296.3 L277.1,288.6 L303.8,280.9 L330.4,273.1 L357.1,265.4 L383.7,257.7 L410.4,250.0 L437.0,242.2 L463.6,234.5 L490.3,226.8 L516.9,219.1 L543.6,211.3 L570.2,203.6 L596.9,195.9 L623.5,188.2 L650.1,180.4 L676.8,172.7 L703.4,165.0 L730.1,157.3 L756.7,149.5 L783.4,141.8 L810.0,134.1" fill="none" stroke="#2a78d6" stroke-width="2" stroke-linecap="round"/>
+<circle cx="330.4" cy="273.1" r="4.5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"><title>4 threads · 8.1 MH/s: 8.3 s per stage at d = 26</title></circle>
+<text x="322.4" y="277.1" text-anchor="end" fill="#0b0b0b" font-size="12">8.3 s</text>
+<text x="818.0" y="147.1" fill="#52514e" font-size="12">4 threads · 8.1 MH/s</text>
+<text x="944" y="408" text-anchor="end" fill="#898781" font-size="11">measured on 4-core Xeon @ 2.80GHz (cloud VM); a GPU moves both lines down, not their slope</text>
+</svg>

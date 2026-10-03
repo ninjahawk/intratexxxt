@@ -1,0 +1,29 @@
+name: CI
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Binaries match SHA256SUMS
+        run: cd bin && sha256sum -c SHA256SUMS
+      - name: Ledger re-verified by the independent Python implementation
+        run: python verify.py transcript data/ledger.json
+      - name: Ledger re-verified by the engine
+        run: |
+          chmod +x bin/intratexxxt-linux-amd64
+          bin/intratexxxt-linux-amd64 -p data/ledger.json verify
+          bin/intratexxxt-linux-amd64 -p data/ledger.json status
+      - name: Charts are up to date
+        # every chart is a pure function of data/ and challenge.json; a diff means someone drew by hand
+        run: |
+          python tools/plot.py
+          git diff --exit-code media

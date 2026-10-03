@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="400" viewBox="0 0 960 400" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" role="img" aria-labelledby="st sd">
+<title id="st">The staircase, measured</title>
+<desc id="sd">Cumulative SHA-256 evaluations needed to reach each of the first 120 stages of the live challenge at difficulty 26, against the expected 2^26 per stage.</desc>
+<rect width="960" height="400" rx="10" fill="#1a1a19"/>
+<text x="64" y="38" fill="#ffffff" font-size="20" font-weight="600">The staircase, measured</text>
+<text x="64" y="62" fill="#c3c2b7" font-size="13">Cumulative SHA-256 work to climb the first 120 stages of the live challenge (d = 26). Dashed = expected 2<tspan font-size="9" dy="-6">26</tspan><tspan dy="6"> per stage.</tspan></text>
+<line x1="64" y1="348.0" x2="840" y2="348.0" stroke="#2c2c2a" stroke-width="1"/>
+<text x="54" y="352.0" text-anchor="end" fill="#898781" font-size="12">0</text>
+<line x1="64" y1="296.8" x2="840" y2="296.8" stroke="#2c2c2a" stroke-width="1"/>
+<text x="54" y="300.8" text-anchor="end" fill="#898781" font-size="12">2B</text>
+<line x1="64" y1="245.6" x2="840" y2="245.6" stroke="#2c2c2a" stroke-width="1"/>
+<text x="54" y="249.6" text-anchor="end" fill="#898781" font-size="12">4B</text>
+<line x1="64" y1="194.4" x2="840" y2="194.4" stroke="#2c2c2a" stroke-width="1"/>
+<text x="54" y="198.4" text-anchor="end" fill="#898781" font-size="12">6B</text>
+<line x1="64" y1="143.2" x2="840" y2="143.2" stroke="#2c2c2a" stroke-width="1"/>
+<text x="54" y="147.2" text-anchor="end" fill="#898781" font-size="12">8B</text>
+<line x1="64" y1="92.0" x2="840" y2="92.0" stroke="#2c2c2a" stroke-width="1"/>
+<text x="54" y="96.0" text-anchor="end" fill="#898781" font-size="12">10B</text>
+<text x="64.0" y="370" text-anchor="middle" fill="#898781" font-size="12">0</text>
+<text x="193.3" y="370" text-anchor="middle" fill="#898781" font-size="12">20</text>
+<text x="322.7" y="370" text-anchor="middle" fill="#898781" font-size="12">40</text>
+<text x="452.0" y="370" text-anchor="middle" fill="#898781" font-size="12">60</text>
+<text x="581.3" y="370" text-anchor="middle" fill="#898781" font-size="12">80</text>
+<text x="710.7" y="370" text-anchor="middle" fill="#898781" font-size="12">100</text>
+<text x="840.0" y="370" text-anchor="middle" fill="#898781" font-size="12">120</text>
+<text x="452.0" y="390" text-anchor="middle" fill="#898781" font-size="12">stage</text>
+<line x1="64.0" y1="348.0" x2="840.0" y2="141.8" stroke="#c3c2b7" stroke-width="1.5" stroke-dasharray="6 5"/>
+<path d="M64.0,348.0 V346.7 H70.5 V342.0 H76.9 V340.7 H83.4 V339.6 H89.9 V338.0 H96.3 V335.8 H102.8 V333.0 H109.3 V332.5 H115.7 V330.1 H122.2 V329.8 H128.7 V329.4 H135.1 V323.6 H141.6 V322.4 H148.1 V321.1 H154.5 V319.4 H161.0 V318.1 H167.5 V317.7 H173.9 V317.5 H180.4 V317.5 H186.9 V308.3 H193.3 V305.8 H199.8 V300.9 H206.3 V300.7 H212.7 V300.2 H219.2 V300.0 H225.7 V299.7 H232.1 V298.2 H238.6 V294.4 H245.1 V292.7 H251.5 V292.3 H258.0 V286.1 H264.5 V284.9 H270.9 V282.5 H277.4 V280.5 H283.9 V279.9 H290.3 V279.0 H296.8 V273.4 H303.3 V272.9 H309.7 V271.4 H316.2 V267.2 H322.7 V263.3 H329.1 V263.0 H335.6 V262.9 H342.1 V259.2 H348.5 V258.2 H355.0 V255.2 H361.5 V254.7 H367.9 V254.0 H374.4 V251.4 H380.9 V246.9 H387.3 V246.8 H393.8 V245.6 H400.3 V245.2 H406.7 V239.7 H413.2 V237.6 H419.7 V235.0 H426.1 V234.4 H432.6 V233.0 H439.1 V232.3 H445.5 V230.9 H452.0 V226.6 H458.5 V220.8 H464.9 V220.0 H471.4 V219.3 H477.9 V216.9 H484.3 V216.8 H490.8 V216.6 H497.3 V216.5 H503.7 V216.0 H510.2 V215.0 H516.7 V214.6 H523.1 V212.5 H529.6 V211.1 H536.1 V208.9 H542.5 V208.4 H549.0 V206.8 H555.5 V206.4 H561.9 V206.2 H568.4 V202.7 H574.9 V201.1 H581.3 V200.8 H587.8 V198.5 H594.3 V198.4 H600.7 V197.0 H607.2 V196.7 H613.7 V196.5 H620.1 V182.8 H626.6 V181.6 H633.1 V180.6 H639.5 V178.8 H646.0 V177.8 H652.5 V177.7 H658.9 V176.3 H665.4 V175.5 H671.9 V175.0 H678.3 V174.3 H684.8 V172.8 H691.3 V170.2 H697.7 V169.6 H704.2 V168.6 H710.7 V167.8 H717.1 V166.2 H723.6 V166.2 H730.1 V165.2 H736.5 V164.7 H743.0 V161.3 H749.5 V160.4 H755.9 V156.4 H762.4 V156.2 H768.9 V155.7 H775.3 V152.1 H781.8 V151.6 H788.3 V150.0 H794.7 V147.5 H801.2 V144.4 H807.7 V139.6 H814.1 V139.5 H820.6 V138.7 H827.1 V137.6 H833.5 V134.7 H840.0" fill="none" stroke="#3987e5" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="840.0" cy="134.7" r="4" fill="#3987e5" stroke="#1a1a19" stroke-width="2"/>
+<path d="M848.0,134.7 h14 v-10 h14 v-10 h14 v-10" fill="none" stroke="#3987e5" stroke-width="2" stroke-dasharray="2 4" opacity="0.6"/>
+<text x="850.0" y="94.7" fill="#ffffff" font-size="13" font-weight="600">stage 120</text>
+<text x="850.0" y="110.7" fill="#c3c2b7" font-size="12">8.3B hashes</text>
+<text x="850.0" y="154.7" fill="#898781" font-size="12">no last stage</text>
+<text x="944" y="388" text-anchor="end" fill="#898781" font-size="11">120 stages · 18 min on 4 threads · 4-core Xeon @ 2.80GHz (cloud VM)</text>
+</svg>
